@@ -61,13 +61,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Root Mean Squared Error (RMSE)**: _<value>_
 - **R² Score**: _<value>_
 
-*(Replace `<value>` with your actual results after running.)*
-
----
-
-## Screenshots
-
-(Add screenshots of your regression plot and output if required.)
 
 ---
 
@@ -88,5 +81,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 - **Name**: Hridiman Sarmah  
 - **Email**: sarmahhridiman@gmail.com  
-- **LinkedIn**: [linkedin.com/in/hridiman-sarmah-22ab5726a](https://linkedin.com/in/hridiman-sarmah-22ab5726a)
+
 
